@@ -43,3 +43,19 @@ To simulate real-world monitoring in a DevOps/SRE environment using simple Bash 
 */5 * * * * /home/ec2-user/monitoring/app_health_check.sh >> /home/ec2-user/monitoring/app.log
 */5 * * * * /home/ec2-user/monitoring/container_check.sh >> /home/ec2-user/monitoring/container.log
 */10 * * * * /home/ec2-user/monitoring/system_check.sh >> /home/ec2-user/monitoring/system.log
+
+Sample Output:
+Sun Apr 19 14:32:00 UTC 2026 - App is UP
+
+Sun Apr 19 14:32:00 UTC 2026 - nginx-container is running
+
+Use Cases
+Basic server monitoring
+Application uptime validation
+Docker container health checks
+DevOps/SRE learning
+
+Author
+
+Narayana KS
+
