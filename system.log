@@ -1,0 +1,17 @@
+------ Sun Apr 26 13:39:45 UTC 2026 ------
+CPU Usage:
+%Cpu(s):  0.0 us,  1.6 sy,  0.0 ni, 98.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       212Mi        15Gi       0.0Ki       407Mi        15Gi
+Swap:             0B          0B          0B
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+tmpfs           3.2G  492K  3.2G   1% /run
+/dev/xvda1       40G  3.4G   37G   9% /
+tmpfs           7.9G     0  7.9G   0% /tmp
+/dev/xvda128     10M  1.3M  8.7M  13% /boot/efi
+tmpfs           1.6G     0  1.6G   0% /run/user/1000
+----------------------
